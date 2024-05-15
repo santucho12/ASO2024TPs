@@ -11,3 +11,7 @@ Estos bucles estaban dentro de las partes del programa llamadas "sumador" y "res
 
 ## 2a 
 <a href="./tp3/con_race_condition_corregido.c">puzzle corregido</a>
+
+## 2b
+![2 comenzales 8 hamburguesas](![untitled (4) (1)](https://github.com/santucho12/ASO2024TPs/assets/166550221/4d2474b7-cf57-4575-9953-0589fc43252d)
+)
