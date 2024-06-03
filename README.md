@@ -15,3 +15,25 @@ Estos bucles estaban dentro de las partes del programa llamadas "sumador" y "res
 ## 2b
 ![2 comenzales 8 hamburguesas](![untitled (4) (1)](https://github.com/santucho12/ASO2024TPs/assets/166550221/4d2474b7-cf57-4575-9953-0589fc43252d)
 )
+
+# TRABAJO PRACTICO 4
+
+## Imagen 1
+
+![Imagen 1](screenshots/1.jpg)
+
+## Imagen 2
+
+![Imagen 2](screenshots/2.jpg)
+
+## Imagen 3
+
+![Imagen 3](screenshots/3.jpg)
+
+## Imagen 4
+
+![Imagen 4](screenshots/4.jpg)
+
+## Imagen 5
+
+![Imagen 5](screenshots/5.jpg)
