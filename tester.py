@@ -37,7 +37,9 @@ class Tester:
         print(f"Seguros Aseguradora 1: {aseguradora_1.obtenerSeguros()}")  # [2, 3]
 
         print(f"Póliza 4: {poliza_4.costoPoliza()}")
-        print(f"Póliza 5: {poliza_5.costoPoliza()}")
+        
 
 if __name__ == '__main__':
     Tester().run()
+
+
