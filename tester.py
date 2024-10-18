@@ -31,10 +31,7 @@ class Tester:
         print(f"Las 2 aseguradoras tienen las mismas pólizas: {aseguradora_1.esIgual(aseguradora_2)}")  # False
         
         aseguradora_1.eliminar(poliza_1)  # Eliminamos póliza 1 de aseguradora 1
-        
-        print(f"Existe póliza 1 en aseguradora 1: {aseguradora_1.existePoliza(poliza_1)}")  # False
-        print(f"Hay pólizas en aseguradora 1: {aseguradora_1.hayPolizas()}")  # True
-        print(f"Seguros Aseguradora 1: {aseguradora_1.obtenerSeguros()}")  # [2, 3]
+      
 
         print(f"Póliza 4: {poliza_4.costoPoliza()}")
         
